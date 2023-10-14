@@ -2,14 +2,14 @@ B4A=true
 Group=Default Group
 ModulesStructureVersion=1
 Type=Service
-Version=19
+Version=20
 @EndOfDesignText@
 #Region  Service Attributes 
 	#StartAtBoot: False
 	#ExcludeFromLibrary: True
 #End Region
 
-' این یه تست شماره 3150است توجه کنید
+' با نکته این یه تست شماره 6589است توجه کنید
 ' This is main process
 Sub Process_Globals
 	'These global variables will be declared once when the application starts.
