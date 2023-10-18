@@ -2,7 +2,7 @@ B4A=true
 Group=Default Group
 ModulesStructureVersion=1
 Type=Service
-Version3333
+Version1111
 @EndOfDesignText@
 #Region  Service Attributes 
 	#StartAtBoot: False
@@ -16,7 +16,7 @@ Sub Process_Globals
 	'These variables can be accessed from all modules.
 
 End Sub
-
+تست اخر777
 Sub Service_Create
 	'This is the program entry point.
 	'This is a good place to load resources that are not specific to a single activity.
