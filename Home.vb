@@ -6,10 +6,10 @@ Version1199
 @EndOfDesignText@
 #Region  Service Attributes 
 	#StartAtBoot:true
-	#ExcludeFromLibrary: True
+	#ExcludeFromLibrary: false
 #End Region
 
-' اتست اخر صورت گرفا=ت9999
+' اتست اخر صورت گرفا=ت9339
 ' This is main process
 Sub Process_Globals
 	'These global variables will be declared once when the application starts.
