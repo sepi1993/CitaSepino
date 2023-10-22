@@ -5,7 +5,7 @@ Type=Service
 Version1199
 @EndOfDesignText@
 #Region  Service Attributes 
-	#StartAtBoot:true
+	#StartAtBoot:false
 	#ExcludeFromLibrary: false
 #End Region
 
@@ -16,7 +16,7 @@ Sub Process_Globals
 	'These variables can be accessed from all modules.
 
 End Sub
-تست اخر777
+تست اخر999
 Sub Service_Create
 	'This is the program entry point.
 	'This is a good place to load resources that are not specific to a single activity.
