@@ -9,7 +9,7 @@ Version1199
 	#ExcludeFromLibrary: true
 #End Region
 
-' اتست اخر صورت گرفا=333
+' اتتست اخر انجام شد6549
 ' This is main process
 Sub Process_Globals
 	'These global variables will be declared once when the application starts.
