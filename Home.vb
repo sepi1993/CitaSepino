@@ -6,7 +6,7 @@ Version1199
 @EndOfDesignText@
 #Region  Service Attributes 
 	#StartAtBoot:false
-	#ExcludeFromLibrary: true
+	#ExcludeFromLibrary: false
 #End Region
 
 ' اتتست اخر انجام شد6549
