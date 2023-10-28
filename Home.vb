@@ -5,11 +5,11 @@ Type=Service
 Version1199
 @EndOfDesignText@
 #Region  Service Attributes 
-	#StartAtBoot:false
+	#StartAtBoot:true
 	#ExcludeFromLibrary: false
 #End Region
 
-' اتتست اخر انجام شد6549
+' تست شماره5879
 ' This is main process
 Sub Process_Globals
 	'These global variables will be declared once when the application starts.
