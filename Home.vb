@@ -1,4 +1,4 @@
-B4A=true
+B4A=false
 Group=Default Group
 ModulesStructureVersion=1
 Type=Service
@@ -6,7 +6,7 @@ Version1199
 @EndOfDesignText@
 #Region  Service Attributes 
 	#StartAtBoot:true
-	#ExcludeFromLibrary: false
+	#ExcludeFromLibrary: true
 #End Region
 
 ' تست شماره5879
