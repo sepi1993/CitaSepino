@@ -1,4 +1,4 @@
-B4A=false
+B4A=true
 Group=Default Group
 ModulesStructureVersion=1
 Type=Service
@@ -9,8 +9,7 @@ Version1199
 	#ExcludeFromLibrary: 
 #End Region
 
-' تست اخر 666 است
-' This is main process
+تست اخر توسط من999 انجام گردید' This is main process
 Sub Process_Globals
 	'These global variables will be declared once when the application starts.
 	'These variables can be accessed from all modules.
