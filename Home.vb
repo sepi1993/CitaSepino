@@ -2,7 +2,7 @@ B4A=true
 Group=Default Group
 ModulesStructureVersion=1
 Type=Service
-Version1199
+Version1222
 @EndOfDesignText@
 #Region  Service Attributes 
 	#StartAtBoot:false
