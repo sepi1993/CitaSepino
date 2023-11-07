@@ -9,13 +9,12 @@ Version1199
 	#ExcludeFromLibrary: 
 #End Region
 
-تست اخر توسط من999 انجام گردید' This is main process
+تست اخر توسط من321انجام گردید' This is main process
 Sub Process_Globals
 	'These global variables will be declared once when the application starts.
 	'These variables can be accessed from all modules.
 
 End Sub
-تست اخر999
 Sub Service_Create
 	'This is the program entry point.
 	'This is a good place to load resources that are not specific to a single activity.
