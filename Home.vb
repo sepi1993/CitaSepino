@@ -2,14 +2,15 @@ B4A=true
 Group=Default Group
 ModulesStructureVersion=1
 Type=Service
-Version1199
+Version1144
 @EndOfDesignText@
 #Region  Service Attributes 
 	#StartAtBoot:false
 	#ExcludeFromLibrary: 
 #End Region
 
-تست اخر توسط من321انجام گردید' This is main process
+تست اخر توسط من321انجام گردید'
+This is main process
 Sub Process_Globals
 	'These global variables will be declared once when the application starts.
 	'These variables can be accessed from all modules.
