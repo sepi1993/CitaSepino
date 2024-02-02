@@ -9,12 +9,12 @@ Version1144
 	#ExcludeFromLibrary: 
 #End Region
 
-تست اخر توسط من188انجام گردید'
+تست اخر توسط من122انجام گردید'
 This is main process
 end Sub Process_Globals
 	'These global variables will be declared once when the application starts.
 	'These variables can be accessed from all modules.
-Private dm as string = "Hi aLI HOW ARE YOU?"
+Private dm as string = "Hi srpi HOW ARE YOU?"
 End Sub
 Sub Service_Create
 	'This is the program entry point.
