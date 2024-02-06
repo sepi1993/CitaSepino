@@ -9,7 +9,7 @@ Version1144
 	#ExcludeFromLibrary: 
 #End Region
 
-تست اخر توسط من122انجام گردید'
+تست اخر توسط سپی 135انجام گردید'
 This is main process
 end Sub Process_Globals
 	'These global variables will be declared once when the application starts.
