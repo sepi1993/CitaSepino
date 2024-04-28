@@ -14,7 +14,7 @@ This is main process
 end Sub Process_Globals
 	'These global variables will be declared once when the application starts.
 	'These variables can be accessed from all modules.
-Private dm as string = "Hi srpi HOW ARE YOU?"
+Private dm as string = "bye srpi HOW ARE YOU?"
 End Sub
 Sub Service_Create
 	'This is the program entry point.
@@ -32,7 +32,7 @@ End Sub
 
 'Return true to allow the OS default exceptions handler to handle the uncaught exception.
 Sub Application_Error (Error As Exception, StackTrace As String) As Boolean
-	Return True
+	Return false
 End Sub
 
 Sub Service_Destroy
