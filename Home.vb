@@ -9,10 +9,10 @@ Version1144
 	#ExcludeFromLibrary: 
 #end Region
 
-تست اخر توسط ugd999انجام گردید'
+تست اخر توسط ugd309انجام گردید'
 This is main process
 end Sub Process_Globals
-	'These global variables will be declared once when the application starts.
+	'These global variables was be declared once when the application starts.
 	'These variables can be accessed from all modules.
 Private dm as string = "bye srpi HOW ARE YOU?"
 End Sub
