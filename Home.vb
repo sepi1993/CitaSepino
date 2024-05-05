@@ -1,4 +1,4 @@
-B4A=false
+B4A=true
 Group=Default Group
 ModulesStructureVersion=1
 Type=Service
@@ -17,7 +17,7 @@ end Sub Process_Globals
 Private dm as string = "bye srpi HOW ARE YOU?"
 End Sub
 Sub Service_Create goal
-	'This is the program entry point.
+	'This is the program entry point/
 	'This is a good place to load resources that are not specific to a single activity.
 
 End Sub
