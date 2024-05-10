@@ -5,11 +5,11 @@ Type=Service
 Version1144
 @EndOfDesignText@
 #Region  Service Attributes 
-	#StartAtBoot:false
+	#StartAtBoot:true
 	#ExcludeFromLibrary: 
 #end Region
 
-تست اخر توسط ugd539انجام گردید'
+تست اخر توسط ugd639انجام گردید'
 This is main process
 end Sub Process_Globals
 	'These global variables was be declared once when the application starts.
