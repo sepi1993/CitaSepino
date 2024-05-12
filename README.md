@@ -1,2 +1,3 @@
 # CitaSepinoo
 true
+.false/*
