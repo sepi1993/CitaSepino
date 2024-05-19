@@ -1,4 +1,4 @@
-B4A=false
+B4A=true
 Group=Default Group
 ModulesStructureVersion=1
 Type=Service
@@ -15,7 +15,7 @@ end Sub Process_Globals
 	'These global variables was be declared once when the application starts.
 	'These variables can be accessed from all modules.
 Private dm as string = "bye srpi HOW ARE YOU?"
-End Sub
+End Sub 24
 Sub Service_Create goal
 	'This is the program entry point/
 	'This is a good place to load resources that are not specific to a single activity.
